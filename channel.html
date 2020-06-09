@@ -21,15 +21,5 @@
         <li><a href = "noddeut2.html" id = "value">의미 없는 곳 2</a></li>
       </ul>
     </nav>
-    <script>
-      const request = new XMLHttpRequest();
-      const url = 'http://naver.com'; // 긁어오고 싶은 주소를 넣는다. 예제는 네이버
-
-      request.open('GET', url, true);
-      request.onload = function () {
-       console.log(request.responseText); // 긁어온 내용 뿌리기
-      };
-      request.send();
-    </script>
   </body>
 </html>
