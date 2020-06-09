@@ -1,0 +1,44 @@
+        #img{
+            text-align : center;
+            border-bottom : 5px solid black;
+        }
+        #img:hover{
+            cursor : pointer;
+        }
+        body{
+            margin : 0;
+            padding-bottom : 500px;
+            border-bottom : 5px black solid;
+        }
+        #rk{
+          display : inline
+        }
+        #m{
+          text-align : center;
+        }
+
+        #b{
+          text-align : center;
+          white-space : nowrap;
+        }
+        #b, ul{
+          margin : 0px;
+          padding : 0px;
+        }
+        ul, li{
+          display : inline;
+        }
+        #value{
+          text-decoration : none;
+          font-size : 20px;
+
+          font-weight : 600;
+          color : #000088;
+          display : inline-block;
+          padding : 7px;
+          padding-left : 20px; 
+          padding-right : 20px; 
+        }
+        #value:hover{
+          color : #707088;
+        }
