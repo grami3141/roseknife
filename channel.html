@@ -22,14 +22,14 @@
       </ul>
     </nav>
     <script>
-      const request = require('request');
+      const request = new XMLHttpRequest();
+      const url = 'http://naver.com'; // 긁어오고 싶은 주소를 넣는다. 예제는 네이버
 
-      const url = "http://www.inu.ac.kr/com/cop/mainWork/foodList1.do?siteId=inu&id=inu_050110010000&command=week";
-
-      request(url, (error, response, body) => {
-      if (error) throw error;
-      console.log(body);
-      });
+      request.open('GET', url, true);
+      request.onload = function () {
+       console.log(request.responseText); // 긁어온 내용 뿌리기
+      };
+      request.send();
     </script>
   </body>
 </html>
