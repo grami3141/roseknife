@@ -10,22 +10,15 @@
             padding-bottom : 500px;
             border-bottom : 5px black solid;
         }
-        #rk{
-          display : inline
-        }
-        #m{
-          text-align : center;
-        }
-
-        #b{
+        #nav{
           text-align : center;
           white-space : nowrap;
         }
-        #b, ul{
+        #nav, ul{
           margin : 0px;
           padding : 0px;
         }
-        ul, li{
+        #li{
           display : inline;
         }
         #value{
@@ -42,3 +35,17 @@
         #value:hover{
           color : #707088;
         }
+
+
+        #lw{
+          display : inline-block;
+          padding-left : 30px;
+          padding-top : 10px;
+          padding-bottom : 10px;
+          padding-right: 10px;
+          border : 2px solid black;
+          margin-left: 10%;
+        }
+
+
+
