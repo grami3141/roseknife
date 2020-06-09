@@ -47,5 +47,153 @@
           margin-left: 10%;
         }
 
+    #pr{
+border: 2px black solid;
+display: inline-block;position: relative;
+bottom: 190px;
+margin-left: 41.30%;
+}
+#rskf{
+border-bottom : 2px black solid;
+background-color: black;
+color: white;
+padding-left: 53px;
+padding-right: 53px;
+}
+ #na{
+border:2px black solid;
+border-right: 4px black solid;
+background-color: black;
+color: white;padding-left: 15px;
+padding-right: 15px;
+  
+}
+#navl{
+border-bottom:2px black solid;
+border-top:2px black solid;
+text-align: center;
+margin-left: -6px;
+padding-left: 25px;
+padding-right: 29px;
+}
+#bir{
+border-bottom:2px black solid;
+border-right: 4px black solid;
+background-color: black;
+color: white;
+}
+#birvl{
+border-bottom:2px black solid;
+text-align: center;
+margin-left: -6px;
+padding-left: 10.2px;
+padding-right: 14.2px;
+}
+#ki{
+border:2px black solid;
+border-right: 4px black solid;
+background-color: black;
+color: white;
+padding-left: 23px;
+padding-right: 23;
+}
+#kivl{
+border-bottom:2px black solid;
+text-align: center;
+margin-left: -6px;
+padding-left: 14.1px;
+padding-right: 18.1px;
+}
+#mug{
+border:2px black solid;
+border-right: 4px black solid;
+background-color: black;
+color: white;
+padding-left: 7px;
+padding-right: 7px;
+}
+#mugvl{
+border-bottom:2px black solid;
+text-align: center;
+margin-left: -6px;
+padding-left: 33px;
+padding-right:34px;
+}
+#ji{
+border:2px black solid;
+border-right: 4px black solid;
+background-color: black;
+color: white;
+padding-left: 7px;
+padding-right: 7px;
+}     
 
+#jivl{
+border-bottom:2px black solid;
+text-align: center;
+margin-left: -6px;
+padding-left: 8.2px;
+padding-right:8px;
+}
+#sc{
+border:2px black solid;
+border-right: 4px black solid;
+background-color: black;
+color: white;
+padding-left: 15px;
+padding-right: 15px;
+}      
+#scvl{
+border-bottom:2px black solid;
+text-align: center;
+margin-left: -6px;
+padding-left: 11.2px;
+padding-right:11px;
+}
+#gu{
+border:2px black solid;
+border-right: 4px black solid;
+background-color: black;
+color: white;
+padding-left: 7px;
+padding-right: 7px;
+}
+#guvl{
+border-bottom:2px black solid;
+text-align: center;
+margin-left: -6px;
+padding-left: 33px;
+padding-right: 27px;
+}
+#jo{
+border:2px black solid;
+border-right: 4px black solid;
+background-color: black;
+color: white;
+padding-left: 7px;
+padding-right: 7px;
+}
+#jovl{
+border-bottom:2px black solid;
+text-align: center;
+margin-left: -6px;
+padding-left: 20px;
+padding-right:19px;
+}
+#ga{
+border:2px black solid;
+border-right: 4px black solid;
+background-color: black;
+color: white;
+padding-left: 7px;
+padding-right: 7px;
+}
+#gavl{
+border-bottom:2px blkiack solid;
+text-align: center;
+margin-left: -6px;
+padding-left: 13px;
+padding-right: 12px;
+}
+    
 
