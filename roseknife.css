@@ -1,53 +1,53 @@
-        #img{
-            text-align : center;
-            border-bottom : 5px solid black;
-        }
-        #img:hover{
-            cursor : pointer;
-        }
-        body{
-            margin : 0;
-            padding-bottom : 500px;
-            border-bottom : 5px black solid;
-        }
-        #nav{
-          text-align : center;
-          white-space : nowrap;
-        }
-        #nav, ul{
-          margin : 0px;
-          padding : 0px;
-        }
-        #li{
-          display : inline;
-        }
-        #value{
-          text-decoration : none;
-          font-size : 20px;
+#img{
+  text-align : center;
+  border-bottom : 5px solid black;
+}
+#img:hover{
+  cursor : pointer;
+}
+body{
+  margin : 0;
+  padding-bottom : 500px;
+  border-bottom : 5px black solid;
+}
+#nav{
+text-align : center;
+white-space : nowrap;
+}
+#nav, ul{
+margin : 0px;
+padding : 0px;
+}
+#li{
+display : inline;
+}
+#value{
+text-decoration : none;
+font-size : 20px;
 
-          font-weight : 600;
-          color : #000088;
-          display : inline-block;
-          padding : 7px;
-          padding-left : 20px; 
-          padding-right : 20px; 
-        }
-        #value:hover{
-          color : #707088;
-        }
+font-weight : 600;
+color : #000088;
+display : inline-block;
+padding : 7px;
+padding-left : 20px; 
+padding-right : 20px; 
+}
+#value:hover{
+color : #707088;
+}
 
 
-        #lw{
-          display : inline-block;
-          padding-left : 30px;
-          padding-top : 10px;
-          padding-bottom : 10px;
-          padding-right: 10px;
-          border : 2px solid black;
-          margin-left: 10%;
-        }
+#lw{
+display : inline-block;
+padding-left : 30px;
+padding-top : 10px;
+padding-bottom : 10px;
+padding-right: 10px;
+border : 2px solid black;
+margin-left: 10%;
+}
 
-    #pr{
+#pr{
 border: 2px black solid;
 display: inline-block;position: relative;
 bottom: 190px;
@@ -60,13 +60,13 @@ color: white;
 padding-left: 53px;
 padding-right: 53px;
 }
- #na{
+#na{
 border:2px black solid;
 border-right: 4px black solid;
 background-color: black;
 color: white;padding-left: 15px;
 padding-right: 15px;
-  
+
 }
 #navl{
 border-bottom:2px black solid;
@@ -178,15 +178,15 @@ border-bottom:2px black solid;
 text-align: center;
 margin-left: -6px;
 padding-left: 20px;
-padding-right:19px;
+padding-right:20px;
 }
 #ga{
 border:2px black solid;
 border-right: 4px black solid;
 background-color: black;
 color: white;
-padding-left: 7px;
-padding-right: 7px;
+padding-left: 7.1px;
+padding-right: 7.1px;
 }
 #gavl{
 border-bottom:2px blkiack solid;
@@ -195,5 +195,3 @@ margin-left: -6px;
 padding-left: 13px;
 padding-right: 12px;
 }
-    
-
